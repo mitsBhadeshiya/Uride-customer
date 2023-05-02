@@ -26,7 +26,7 @@ Here are some of the screenshot for the texi driver
   </tr>
     <tr> 
       <td> <img src="/images/image_7.png" width="300"/> </td>
-      <td>  </td>
+      <td> <img src="/images/image_8.png" width="300"/> </td>
       <td>  </td>
   </tr>
 
